@@ -1,5 +1,5 @@
 # DrugResponse2Vec
-Code for trying to computationally build food ingredients from combination of their flavor compounds. The code is still in progress.
+Code for trying to computationally build drugs based on the drug-cell line response. The code is still in progress.
 
 ## Prerequisites
 - Python 2.7
