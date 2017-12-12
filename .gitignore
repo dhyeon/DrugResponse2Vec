@@ -2,3 +2,7 @@
 *.ipynb_checkpoints*
 *.pyc
 *.DS_Store
+
+# data
+data/pert.zip
+data/pert
