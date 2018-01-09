@@ -1,0 +1,10 @@
+	file_origin	file_target	condition pair count	total pair count	%	cosine(avg)	pearsonr(avg)	spearman(avg)	cosine(max)	pearsonr(max)	spearman(max)
+0	BRD-K77144489.csv	BRD-K36633782.csv	0	16	0.0	0.0	0.0	0.0	0	0	0
+1	BRD-K77144489.csv	BRD-K70974948.csv	0	68	0.0	0.0	0.0	0.0	0	0	0
+2	BRD-K77144489.csv	methyl-dopate.csv	0	16	0.0	0.0	0.0	0.0	0	0	0
+3	monastrol.csv	BRD-K36633782.csv	0	76	0.0	0.0	0.0	0.0	0	0	0
+4	monastrol.csv	BRD-K70974948.csv	0	323	0.0	0.0	0.0	0.0	0	0	0
+5	monastrol.csv	methyl-dopate.csv	0	76	0.0	0.0	0.0	0.0	0	0	0
+6	BRD-K36633782.csv	BRD-K70974948.csv	0	68	0.0	0.0	0.0	0.0	0	0	0
+7	BRD-K36633782.csv	methyl-dopate.csv	0	16	0.0	0.0	0.0	0.0	0	0	0
+8	BRD-K70974948.csv	methyl-dopate.csv	0	68	0.0	0.0	0.0	0.0	0	0	0
