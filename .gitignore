@@ -4,5 +4,7 @@
 *.DS_Store
 
 # data
-data/pert.zip
-data/pert
+data/pert_name.zip
+data/pert_name
+data/pert_id.zip
+data/pert_id
